@@ -123,8 +123,6 @@ Contributions, issues and feature requests are welcome!
 
 Give a ⭐️ if this project helped you!
 
-[ Support me ](https://www.patreon.com/Amiinoz)
-
 
 ***
 Made with ❤️ by [Mo Magan](https://www.momagan.com)
